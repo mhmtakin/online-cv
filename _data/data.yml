@@ -76,50 +76,35 @@ experiences:
             - Performing Tool Qualification
 
 projects:
-    title: Projects
+    title: Techincal Skills
     intro: >
       You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Programming Languages
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "C/C++, Python, MatLab, SQL(MySQL, PostgreSQL)"
 
-      - title: DevStudio
+      - title: Operating System
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Real Time Operating Systems (RTOS) / Greenhills MULTI / Operating Systems (Windows, Linux) "
 
-      - title: Tempo
+      - title: Computer networks and communication
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Arinc429 / TCP/UDP"
 
-      - title: Atom
+      - title: Version Control
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Subversion (SVN) / Git"
 
-      - title: Delta
+      - title: Airborne Software Development Process
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "DO-178C DO-367"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
+      - title: Project specific tools and processes
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Rational DOORS / Management tools (JIRA, Confluence) / Enterprise Architecture / Debian Linux / MS Office"
 
 skills:
     title: Skills
@@ -139,3 +124,8 @@ skills:
 
       - name: Time Management
         level: 70%
+
+oss:
+    title: References
+    intro: >
+      References available upon request
