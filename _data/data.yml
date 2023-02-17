@@ -77,10 +77,7 @@ experiences:
 
 projects:
     title: Techincal Skills
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     assignments:
       - title: Programming Languages
         link: "#hook"
@@ -100,11 +97,11 @@ projects:
 
       - title: Airborne Software Development Process
         link: "#"
-        tagline: "DO-178C DO-367"
+        tagline: "DO-178C / DO-367"
 
       - title: Project specific tools and processes
         link: "#"
-        tagline: "Rational DOORS / Management tools (JIRA, Confluence) / Enterprise Architecture / Debian Linux / MS Office"
+        tagline: "Rational DOORS / Management tools (JIRA, Confluence) / Enterprise Architecture / Ubuntu / MS Office"
 
 skills:
     title: Skills
