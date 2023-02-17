@@ -8,16 +8,15 @@ sidebar:
 
     # Profile information
     name: Mehmet AKIN
-    tagline: Full Stack Developer
+    tagline: Expert Software Design Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: mehmetakin@yahoo.com
+    phone: +90 537 910 64 54
+    timezone: Turkey Timezone(UTC +3)
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    linkedin: mhmtakin
     xing: alandoe
     github: sharu725
     telegram: # add your nickname without '@' sign
@@ -32,13 +31,10 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Turkish
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
@@ -56,77 +52,29 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Experienced with 5 years of in the aerospace industry. 
+      Expertise in developing, testing, maintaining aircraft avionics systems 
+      and providing support newcomers with DO-178 knowledge.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: BSc in Computer Engineering
+        university: Middle East Technical University
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Expert Software Design Engineer
+        time: 2018 - Present
+        company: Esen System Integration, Ankara
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        Responsible for below task in DO-178C Level B Avionic Project
+            - Developing software for safety critical systems with C/C++
+            - Designing and implementing software for Real-Time Operating System(RTOS)
+            - Developing High Level and Low Level Requirements
+            - Performing Peer Review of Software Plans, Requirement, Code, Test
+            - Participating Verification and Validation Activities
+            - Performing Tool Qualification
+
 projects:
     title: Projects
     intro: >
@@ -173,49 +121,21 @@ oss:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Coding Skills
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Problem Solving
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Teamwork
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Analytical Thinking
+        level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Time Management
+        level: 70%
